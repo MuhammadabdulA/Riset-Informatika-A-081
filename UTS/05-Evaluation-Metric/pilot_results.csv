@@ -1,0 +1,2 @@
+acc_tipe,f1_tipe,bacc_tipe,acc_warna,f1_warna,bacc_warna,exact_match,model,skenario,fold,n_latih,n_val,n_uji,epoch_terbaik,epoch_dijalankan,inferensi_cpu_ms_per_gambar,durasi_menit
+0.7643,0.6662,0.7403,0.7429,0.7119,0.7401,0.5286,M1 CNN dari nol,S1,0,474,83,140,17,25,38.8,18.6
